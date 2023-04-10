@@ -2,3 +2,4 @@
 venv
 img
 __pycache__
+geckodriver.log
