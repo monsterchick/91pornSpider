@@ -1,1 +1,4 @@
 requests
+bs4
+ffmpeg
+m3u8
