@@ -3,3 +3,5 @@ venv
 img
 __pycache__
 geckodriver.log
+download
+*.json
