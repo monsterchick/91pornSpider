@@ -5,3 +5,5 @@ __pycache__
 geckodriver.log
 download
 *.json
+download
+.DS_Store
