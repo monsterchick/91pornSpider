@@ -1,9 +1,0 @@
-.idea
-venv
-img
-__pycache__
-geckodriver.log
-download
-*.json
-download
-.DS_Store
