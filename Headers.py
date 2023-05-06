@@ -1,4 +1,5 @@
 import random
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
     'Accept-Language': 'zh-TW'
@@ -24,6 +25,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15',
     'Accept-Language': 'zh-TW'
 }
-# print(headers)
-headers = headers[random.randint(0, len(headers)-1)]
-# print(headers)
+def get_headers():
+    # print(headers)
+    header = headers[random.randint(0, len(headers)-1)]
+    return header

@@ -1,9 +1,5 @@
+download
 .idea
 venv
-img
+temp
 __pycache__
-geckodriver.log
-download
-*.json
-download
-.DS_Store
