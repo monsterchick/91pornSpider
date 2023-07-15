@@ -3,7 +3,7 @@ venv
 img
 __pycache__
 geckodriver.log
-download
+save
 *.json
-download
+save
 .DS_Store

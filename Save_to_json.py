@@ -19,7 +19,7 @@ def save_to_json(page, position, title,preview):
             "preview": preview
         }
     }
-    path = os.path.join(os.path.abspath(r'download/data.json'))
+    path = os.path.join(os.path.abspath(r'save/data.json'))
     # print(path)
     # json_str = json.dumps(json_dic,ensure_ascii=False)
     # print(json_str)
